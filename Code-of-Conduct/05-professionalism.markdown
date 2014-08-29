@@ -22,4 +22,4 @@ or sensitive to all the different groups which may be present at events.
 
 If an event will by its nature have sexual topics, touching or imagery, the
 Linux community's name, GTALUG or TLUG should should not be included and
-invitations should not be sent to the official public channels of the community.
+invitations should not be sent through the official public channels of the community.
